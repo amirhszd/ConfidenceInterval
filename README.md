@@ -1,4 +1,6 @@
 # ConfidenceInterval
+[![DOI](https://zenodo.org/badge/181352686.svg)](https://zenodo.org/badge/latestdoi/181352686)
+
 The Introduced class calculates confidence Interval of an MxN matrix as argument _data_, where M is a number of samples and N is the number of features and shows the plot interactively.
 
 <p align="center">
